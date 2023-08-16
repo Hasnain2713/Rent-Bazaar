@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814248251628",
+    "project_id": "rentbazaar-ebfc3",
+    "storage_bucket": "rentbazaar-ebfc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814248251628:android:e4fbb69ceb658d8123d5c9",
+        "android_client_info": {
+          "package_name": "com.example.rent_bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814248251628-mbibr05a08ku91tir8ih521k1uhjg3ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent_bazaar",
+            "certificate_hash": "ce4bedceb6671349acf672836a0e7ad59306d8cc"
+          }
+        },
+        {
+          "client_id": "814248251628-dtfjo49gl5hk2rbjmq85qdi7q204or0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eKlRJTGNmUYj_V9cQGDJq8oCNc5-pfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814248251628-dtfjo49gl5hk2rbjmq85qdi7q204or0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
